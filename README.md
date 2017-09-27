@@ -5,7 +5,7 @@ These are programming assignments from my course in computer graphics. They are 
 Assignments heavily references instructor's code.
 
 ## Development Environment
-Language: C++
-Library: OpenGL
-IDE: Visual Studios 2015
-OS: Windows
+* Language: C++
+* Library: OpenGL
+* IDE: Visual Studios 2015
+* OS: Windows
