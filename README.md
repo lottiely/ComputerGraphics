@@ -6,6 +6,6 @@ Assignments heavily references instructor's code.
 
 ## Development Environment
 * Language: C++
-* Library: OpenGL
+* Library: OpenGL, Angel Library (6th edition)
 * IDE: Visual Studios 2015
 * OS: Windows
